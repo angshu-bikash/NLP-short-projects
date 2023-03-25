@@ -1,3 +1,3 @@
 # NLP-short-projects
 
-## different short topics 
+Projects on different short topics 
