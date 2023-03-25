@@ -1,0 +1,15 @@
+1. Bag of words (Model for extracting features from text files)
+link: https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+Text -> neumerical represent
+
+easiest library to use this model -> scikit-learn
+(search google -> sk learn bag of words -> documentation)
+
+	1. take all unique words from training dataset, create a list 
+	2. check if the test data's words are all contained in that list.
+	3. if yes -> 1, if no -> 0 (Binary)
+
+Limitation:
+	1. If not in training data, not gonna know how to handle it. Need Exact match.
+
